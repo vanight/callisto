@@ -1,2 +1,2 @@
-# This project is for CogAT test app
+# This project is for talent and gift test app
 
